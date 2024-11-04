@@ -29,8 +29,8 @@ Known as **FrameworkPython** – I'm a developer from **Alborz, Iran** who enjoy
 ---
 
 ## 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=BELECTRON13&show_icons=true&theme=radical&hide=contribs)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BELECTRON13&layout=compact&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=FrameworkPython&show_icons=true&theme=radical&hide=contribs)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FrameworkPython&layout=compact&theme=radical)
 
 ---
 
