@@ -45,8 +45,8 @@ I’m skilled in working with a variety of tools and technologies that help me b
 ## 💡 What I’m Passionate About
 Some of the fields I’m deeply interested in:
 
-- **Bot Development** 🤖 in messaging apps
-- **Artificial Intelligence** 🤖 – pushing the limits of what's possible
+- **Bot Development** 🤖 in platforms
+- **Artificial Intelligence** 🦾 – pushing the limits of what's possible
 - **Data Processing** 📊 – turning data into insights
 
 ---
