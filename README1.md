@@ -20,7 +20,7 @@ Known as **FrameworkPython** – I'm a developer from **Alborz, Iran** who enjoy
 ![FastAPI](https://img.shields.io/badge/FastAPI-green?logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-blue?logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-orange?logo=git&logoColor=white)
-![Nano](https://img.shields.io/badge/Nano-?logo=gnu&logoColor=white)
+![Nano](https://img.shields.io/badge/Editor-Nano-lightgrey?logo=gnu&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-blue?logo=visual-studio-code&logoColor=white)
 ![Termux](https://img.shields.io/badge/Termux-yellow?logo=android&logoColor=white)
 ![HTTPX](https://img.shields.io/badge/HTTPX-purple)
