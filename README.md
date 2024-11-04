@@ -31,9 +31,11 @@ I’m skilled in working with a variety of tools and technologies that help me b
 
 ![Docker](https://img.shields.io/badge/Docker-blue?logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-blue?logo=visual-studio-code&logoColor=white)
+![Nano](https://img.shields.io/badge/Nano-lightgrey?logo=gnu&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-orange?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-green?logo=fastapi&logoColor=white)
+![HTTPX](https://img.shields.io/badge/HTTPX-purple)
 ![Termux](https://img.shields.io/badge/Termux-yellow?logo=android&logoColor=white)
 ![Databases](https://img.shields.io/badge/Databases-Various-blue)
 
@@ -48,11 +50,9 @@ Some of the fields I’m deeply interested in:
 
 ---
 
-## 🌍 Languages I Speak
-In addition to coding, I can speak:
-
-![Persian](https://img.shields.io/badge/Language-Persian-blue)
-![English](https://img.shields.io/badge/Language-English%20(Intermediate)-yellow)
+## 📈 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=FrameworkPython&show_icons=true&theme=radical&hide=contribs)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FrameworkPython&layout=compact&theme=radical)
 
 ---
 
