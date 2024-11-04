@@ -23,6 +23,7 @@ I’d love to connect! Whether you want to talk tech, ask a question, or just sa
 [![Rubika](https://img.shields.io/badge/Rubika-%40Framework__Pythonm-green?logo=rubika)](https://rubika.ir/Framework_Pythonm)
 [![Rubika Channel](https://img.shields.io/badge/Rubika%20Channel-%40PyFramework-green?logo=rubika)](https://rubika.ir/PyFramework)
 [![Virasty](https://img.shields.io/badge/Virasty-%40Django-red)](https://virasty.ir/Django)
+[![Email](https://img.shields.io/badge/Email-amirmahdi21r21%40gmail.com-red?logo=gmail)](mailto:amirmahdi21r21@gmail.com)
 
 ---
 
@@ -54,11 +55,3 @@ Some of the fields I’m deeply interested in:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=FrameworkPython&show_icons=true&theme=radical&hide=contribs)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FrameworkPython&layout=compact&theme=radical)
 
----
-
-## 📫 Contact
-If you'd like to reach me directly, feel free to email me!
-
-[![Email](https://img.shields.io/badge/Email-amirmahdi21r21%40gmail.com-red?logo=gmail)](mailto:amirmahdi21r21@gmail.com)
-
-Or just drop a message on any of the social media links above! 😊
