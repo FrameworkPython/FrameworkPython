@@ -20,7 +20,7 @@ I’d love to connect! Whether you want to talk tech, ask a question, or just sa
 
 [![Telegram](https://img.shields.io/badge/Telegram-%40Framework__python-blue?logo=telegram)](https://t.me/Framework_python)
 [![Telegram Channel](https://img.shields.io/badge/Telegram%20Channel-%40PyFramework-blue?logo=telegram)](https://t.me/PyFramework)
-[![Rubika](https://img.shields.io/badge/Rubika-%40FrameworkPython-green)](https://rubika.ir/FrameworkPython)
+[![Rubika](https://img.shields.io/badge/Rubika-%40FrameworkPython-green)](https://rubika.ir/FrameworkPython1)
 [![Virasty](https://img.shields.io/badge/Virasty-%40Django-blue)](https://virasty.com/Django)
 [![Email](https://img.shields.io/badge/Email-amirmahdi21r21%40gmail.com-red?logo=gmail)](mailto:amirmahdi21r21@gmail.com)
 
